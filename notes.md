@@ -9,7 +9,7 @@
 ### Barbarians
 - **heavily** restricted (don't fit story)
   - as per _Combat_, below, changes may need to be made to _Rage_ feature (duration, etc.)
-    
+
 ### Clerics
 - restricted from bladed weapons
   - debatable
