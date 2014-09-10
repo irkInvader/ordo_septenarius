@@ -1,6 +1,16 @@
 # Site navigation links
 
-- title: Articles
-  url: /articles/
-  excerpt: "Rules Clarifications, Modifications, FAQs, Etc."
-  image: Gothic_Calligraphy_Alphabet_A.jpg
+- title: Blog
+  url: /blog/
+  excerpt: "Blog entries"
+  image: Blog_Archive_Teaser.jpg
+
+- title: Rules
+  url: /rules/
+  excerpt: "Rules articles"
+  image: Rules_Archive_Teaser.jpg
+
+- title: Fluff
+  url: /fluff/
+  excerpt: "Story posts"
+  image: Fluff_Archive_Teaser.jpg

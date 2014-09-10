@@ -1,4 +1,10 @@
 # Footer navigation links
 
-- title: Articles
-  url: /articles/
+- title: Blog
+  url: /blog/
+
+- title: Rules
+  url: /rules/
+
+- title: Fluff
+  url: /fluff/
