@@ -1,9 +1,10 @@
-_site
+### MacOSX
 .DS_Store
-*.sublime-project
-*.sublime-workspace
-codekit-config.json
-node_modules
-_asset_bundler_cache
+
+### Jekyll
+_site
 .sass-cache
-Gemfile.lock
+
+### Bundler
+/.bundle
+/vendor/bundle
