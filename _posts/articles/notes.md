@@ -1,0 +1,142 @@
+# Rules Notes
+## 1. Step-by-step Characters
+- Characters will begin at 1st level
+- Ability score generation is as follows:
+  1. Roll 4d6, drop lowest, and record for each Ability, in order
+  2. Pick one ability and re-roll, keeping the higher of the two rolls
+  3. At this point,
+      - if the sum of all Ability bonuses is 0 or less,
+      - or, if no Ability is higher than 13,
+      - then start over at Step 1
+  4. Finally, switch the position of two scores (and only two)
+- _Variant: Customizing Ability Scores_, detailed on p. 13 of the _Player's Handbook_, will **not** be allowed
+- Characters will take their Class and Background equipment
+  - No option to take gold and purchase equipment
+
+
+## 2. Races
+- No Dark Elf (Drow) (unavailable to PCs on Oerth)
+- No Dragonborn (don't exist on Oerth)
+- No Rock Gnomes (unavaliable to PCs on Oerth)
+- Half-orcs are severely restricted; DM permission required (Most on Oerth are intolerant)
+- No Teiflings (don't exist on Oerth)
+- see _Human Ethnicities_, below, for more details regarding Humans in the Flanaess
+
+
+## 3. Classes
+- Barbarians severely restricted; DM permission required (don't fit story)
+- Clerics
+  - restricted to non-bladed weapons (debatable; talk to DM)
+  - Cantrips and 1st level spells as written; after that, Deity has much influence
+- Monks severely restricted; DM permission required (don't fit story)
+- Roguish _Assassin_ archetype severely restricted; DM permission required (doesn't fit story)
+- Sorcerous _Draconic Bloodline_ origin is unavailable (doesn't fit story)
+- Warlock's _The Fiend_ and _The Great Old One_ otherworldly patrons are anavailable (don't fit story)
+
+
+## 4. Personality and Background
+- DM has distinct thoughts/ideas regarding various alignments
+  - ask the DM; this is not secret material
+  - severely restricted alignments: any Evil
+- Personal Characteristics section of Chapter 4 is not optional
+  - 2 Personality traits, 1 ideal, 1 bond, and 1 flaw required
+- DM will be using Inspiration rules
+- DM will entertain customized/original _Backgrounds_; talk to your DM for approval
+  - _Hermit_ background is unavailable (doesn't fit story)
+  - _Outlander_ background is unavailable (doesn't fit story)
+  - _Sailor_ background is severely restricted (doesn't fit story; requires DM permission)
+
+
+## 5. Equipment
+- Starting with Gold (ie. ignoring Class and Background equipment) so as to buy starting equipment is **not** an option
+- Money - Note:
+  > The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. <span style="font-size: 65%;">(Player's Handbook; Wyatt, Schwalb, Cordell; p. 143)</span>
+- Armor and Shields - Notes:
+  - > If you wear armor that you lack proficiency with, you have disadvantage on **any ability check, saving throw, or attack roll that involves Strength or Dexterity**, and **you can't cast spells**. <span style="font-size: 65%;">(Player's Handbook; Wyatt, Schwalb, Cordell; p. 144 (emphasis, mine))</span>
+  - > Heavier armor interferes with the wearer's ability to move quickly, stealthily, and freely. If the Armor table shows "Str 13" or "Str 15" in the Strength column for an armor type, the armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score. <span style="font-size: 65%;">(Player's Handbook; Wyatt, Schwalb, Cordell; p. 144)</span>
+  - > If the Armor table shows "Disadvantage" in the Stealth column, the wearer has disadvantage on Dexterity (Stealth) checks.
+- Lifestyle expenses will be charged and consequences of choice will be meaningful during the game
+
+
+## 6. Customization Options
+All details in this chapter are listed as "optional sets of rules"
+- Multiclassing option is not allowed
+- Feats options is not allowed
+- Both optional sets of rules will be discussed and **may** be included in the future
+
+
+## 7. Using Ability Scores
+- The mechanics described in this chapter, and refered to throughout the rules, are modified slightly:
+  - The target number (eg. Difficulty Class) will most often **not** be shared with the player (though, sometimes it will; DM's discretion)
+  - The player begins by describing the desired action (**not** the desired ability or skill check)
+    - Note: The DM will be awarding Advantage to encourage describing activities, instead of identifying skills/abilities to use; The DM **may** apply Disadvantage if Players identify skill/ability too often
+  - The DM informs the player what type of check is required
+  - The player will roll the required Dice, sum the values, apply (known) bonuses and/or penalties, and inform the DM with final value "rolled"
+  - The DM will apply any (hidden/unknown) bonuses and/or penalties, compare the final computed value to the target number, and then inform the player of the results
+- _Variant: Skills with Different Abilities_, detailed on page 174 of the _Player's Handbook_, will be used
+- _Variant: Encumbrance_, detailed on page 176 of the _Player's Handbook_, will be used
+
+
+## 8. Adventuring
+
+
+## 9. Combat
+- Single roll for initiative, _every_ round (d6 - as per 1ed AD&D)
+- Rounds will be 60 seconds, not 6 - as per 1ed AD&D
+  - Many other adjustments may need to be made.
+
+
+# Human Ethnicities
+> Nearly all the humans of the Flanaess can trace their roots to five racial groups. Many folk retain distinctive racial characteristics, but most are difficult to recognize due to long centuries of mixed marriages. However, even in these cases, many families identify with a certain racial group and follow those traditions and customs whether they resemble their ancestors or not. Only the Rhennee shun marriages outside their own race. <span style="font-size: 65%;">(Greyhawk Player's Guide, Brown, p. 34)</span>
+
+- Flannae (Flan)
+  - real-world analogy: Native Americans
+  - accpeted to be the first human inhabitants of Eastern Oerik
+  - originally scattered nomads (1,000+ years ago)
+  - recognizable by their bronze complexions and wavy or curly hair
+    - skin tone: lighter coppery color to deep brown
+    - eyes: commonly dark brown or black; rarely brown or amber
+    - hair: black; also, shades of brown-black, dark brown, and brown
+
+- Oeridians
+  - real-world analogy: Mediterranean (ie. Greek/Italian) Europeans
+  - migrated from the West to Eastern Oerik about 1,000 years ago
+  - most populous people in the Central and Eastern Flanaess
+  - sometimes difficult to differentiate from other races
+    - skin tone: tan to olive
+    - eyes: every common color, though most often brown or gray
+    - hair: honey-blonde to black (brown and auburn being most common)
+  - most easily distinguished by their dress
+    - flashiest dressers in Flanaess
+    - favor plaids and checks, sometimes with unusual variations
+
+- Rhennee
+  - real-world analogy: Romani (Eastern-European) Gypsies
+  - an enigma among human races on Oerth; mysterious history
+    - originally appeared around 150 CY (425+ years ago)
+    - almost exclusively migrant river-dwellers
+    - very close-knit; not welcoming to outsiders
+  - at a glance, easily confused with Oeridians
+    - skin tone: tan to olive
+    - eyes: brown, gray, hazel; blue or green is not too unusual
+    - hair: black or dark brown; curly is most common
+
+- Suloise (Suel)
+  - real-world anology: Norse
+  - migrated from the South and West to Eastern Oerik over 1,000+ years ago
+  - ancient civilization; previously (mostly) destroyed itself (_The Rain of Colorless Fire_)
+    - _Sea of Dust_ is all that remains from that time
+  - the far North-Western barbarians are best example of "pure" Suloise bloodlines
+  - fairest-skinned of Oerik's races
+    - skin tone: pale, sometimes almost albino
+    - eyes: pale blue to violet to deep blue; occasionally gray
+    - hair: strawberry blonde, yellow, platinum, etc; orangish-red is not uncommon; all textures
+
+- Backlunish
+  - real-world anology: Arabic
+  - migrated from the West to Eastern Oerik over 1,000+ years ago
+  - ancient culture; previously (mostly) destroyed (_The Rain of Colorless Fire_)
+  - looks
+    - skin tone: golden
+    - eyes: green or gray-green; gray and hazel less frequent
+    - hair: always dark, ranging from jet-black to dark-brown
