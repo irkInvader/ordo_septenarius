@@ -4,7 +4,7 @@ title: "Obligatory Origin Story"
 author:
 excerpt: "We will be eight!"
 
-date: 2014-09-10
+date: 2014-09-10T17:42:42-05:00
 modified:
 
 ads:
