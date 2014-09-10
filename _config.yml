@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title:
-description:
+title: The Ordo Septenarius
+description: A Dungeons & Dragons Campaign
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale:
-url:
+locale: en_US
+url: //irkInvader.github.io/ordo_septenarius
 
 # Jekyll configuration
 
@@ -21,15 +21,16 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: Kenin Vader
+  email: irkinvader@gmail.com
+  twitter: irk3n
   google:
-    ad-client: 
-    ad-slot: 
-  bio: 
+    plus: +ErrinLarsen
+    # ad-client:
+    # ad-slot:
+  bio: "Come, GIR. Let us rain some doom down upon the heads of our doomed enemies."
   avatar: bio-photo.jpg # 160x160 px image for author byline
-disqus-shortname:
+disqus-shortname: foo
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
