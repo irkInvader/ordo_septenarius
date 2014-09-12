@@ -154,7 +154,7 @@
   - <span style="color: ForestGreen;">Ilfrild Gannen</span> _(Farmer's Wife)_ [01]
     - <span style="color: ForestGreen;">various</span> _(4x Young Child)_ [01]
 - <span style="color: ForestGreen;">Prondene Household</span> [04]
-  - <span style="color: ForestGreen;">Elane Prondene</span> _(Widow)_ [04]
+  - <span style="color: ForestGreen;">**Elane Prondene**</span> _(Widow)_ [04]
   - <span style="color: ForestGreen;">Martiret Prondene</span> _(Eldest Son's Wife)_ [04]
     - <span style="color: ForestGreen;">various</span> _(4x Young Child)_ [04]
   - <span style="color: ForestGreen;">Imenia Prondene</span> _(Second Son's Wife)_ [04]
@@ -211,22 +211,22 @@
 - <span style="background-color: IndianRed; color: DodgerBlue;">Cart Driver C</span>
 
 #### <span style="color: DodgerBlue;">Townsfolk</span>
-- Elmo's Mother
-- Church of St. Cuthbert
-  - Church Cook
-  - Church Cook's Husband
-- Carter's Wife
-  - 5x Child [14]
-- **Weaver**
-  - Weaver's Wife
-  - Weaver's Daughter
-  - 4x Apprentice [10]
-- Carpenter's Wife
-- <span style="background-color: IndianRed; color: DodgerBlue;">Cartwright's Wife</span>
-  - <span style="background-color: IndianRed; color: DodgerBlue;">Young Child</span> [26]
-- Potter's Wife
-  - 2x Child [17]
-- Cowherd's Household
-  - Cowherd's Mother
-  - Cowherd's Wife
-    - 4x Child [21]
+- <span style="color: DodgerBlue;">Irus Thettern</span> _(Elmo's Mother)_
+- <span style="color: DodgerBlue;">Church of St. Cuthbert</span>
+  - <span style="color: DodgerBlue;">Imayn Llysin</span> _(Church Cook)_
+  - <span style="color: DodgerBlue;">Conell Llysin</span> _(Church Cook's Husband)_
+- <span style="color: DodgerBlue;">Wistrick Ryondostrard</span> _(Carter's Wife)_
+  - <span style="color: DodgerBlue;">various</span> _(5x Child)_ [14]
+- <span style="color: DodgerBlue;">**Wistrick Brawnes**</span> _(Weaver)_
+  - <span style="color: DodgerBlue;">Owaine Brawnes</span> _(Weaver's Wife)_
+  - <span style="color: DodgerBlue;">Jenkena Brawnes</span> _(Weaver's Daughter)_
+  - <span style="color: DodgerBlue;">various</span> _(4x Apprentice)_ [10]
+- <span style="color: DodgerBlue;">Limona Dolius</span> _(Carpenter's Wife)_
+- <span style="background-color: IndianRed; color: DodgerBlue;">Wisode Indion</span> _(Cartwright's Wife)_
+  - <span style="background-color: IndianRed; color: DodgerBlue;">Jorius Indion</span> _(Young Child)_ [26]
+- <span style="color: DodgerBlue;">Mereine Densias</span> _(Potter's Wife)_
+  - <span style="color: DodgerBlue;">various</span> _(2x Child)_ [17]
+- <span style="color: DodgerBlue;">Cowherd's Household</span>
+  - <span style="color: DodgerBlue;">Ismene Brencan</span> _(Cowherd's Mother)_
+  - <span style="color: DodgerBlue;">Nemmerota Brencan</span> _(Cowherd's Wife)_
+    - <span style="color: DodgerBlue;">various</span> _(4x Child)_ [21]
