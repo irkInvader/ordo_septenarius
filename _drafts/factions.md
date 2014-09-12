@@ -207,8 +207,8 @@
 
 ### <span style="color: DodgerBlue;">New Faith civilians</span>
 #### <span style="color: DodgerBlue;">Special Cases</span>
-- <span style="color: DodgerBlue;">Tailor</span>
-- <span style="background-color: IndianRed; color: DodgerBlue;">Cart Driver C</span>
+- <span style="color: DodgerBlue;">Goce Aulin</span> _(Tailor)_
+- <span style="background-color: IndianRed; color: DodgerBlue;">Truiant</span> _(Cart Driver C)_
 
 #### <span style="color: DodgerBlue;">Townsfolk</span>
 - <span style="color: DodgerBlue;">Irus Thettern</span> _(Elmo's Mother)_
