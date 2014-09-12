@@ -143,66 +143,65 @@
   - <span style="color: SlateGray;">Buntherus Elard</span> _(traveler)_
 
 ### <span style="color: SlateGray;">Castle civilians</span>
-- 3x Servant [31]
-- 10x Laborer [32]
-- 1d12 Camp Followers
-  - 12x Camp Follower
+- <span style="color: SlateGray;">Uritta, Misouda, Isiniele</span> _(3x Servants)_ [31]
+- <span style="color: SlateGray;">various</span> _(10x Laborer)_ [32]
+- <span style="color: SlateGray;">various</span> _(1d12 Camp Followers)_
 
 ### <span style="color: ForestGreen;">Old Faith civilians</span>
-- Farmer's Household [01]
-  - Granny [01]
-  - Young Woman [01]
-  - Farmer's Wife [01]
-    - 4x Young Child [01]
-- Household [04]
-  - **Widow** [04]
-  - Eldest Son's Wife [04]
-    - 4x Young Child [04]
-  - Second Son's Wife [04]
-    - 4x Young Child [04]
-- Woodwright's Wife
-  - 2x Young Child [16]
-- Mytch's Wife
-  - 3x Child [22]
-- Servant B [22]
-- Stonemason's Wife
-  - 2x Child
-- Household [05]
-  - Eldest Daughter [05]
-  - Second Daughter [05]
-- <span style="background-color: IndianRed; color: ForestGreen;">Widower's Wife</span>
-  - <span style="background-color: IndianRed; color: ForestGreen;">5x Young Child</span> [25]
-- Woodcutter's Wife
-  - 3x Young Child [03]
-- Braumeister's Wife
-  - Young Child [18]
-- Village Elder's Household
-  - Village Elder's Wife
-  - Village Elder's Son's Wife A
-    - 2x Child [27]
-  - Village Elder's Son'w Wife B
-    - Child [27]
-  - Serving Girl A [27]
-  - Serving Girl B [27]
-- Eldest Son's Wife [25]
-- Herdsman's Household
-  - <span style="background-color: IndianRed; color: ForestGreen;">Herdsman's Wife</span> [25]
-    - <span style="background-color: IndianRed; color: ForestGreen;">5x Young Child</span> [25]
-- Farmer's Wife [12]
-  - 6x Daughter [12]
-  - Small Child [12]
-- Gundigoot's Household
-  - Goodwife Gundigoot
-    - Ostler's Eldest Daughter
-    - Ostler's Second Daughter
-  - Potboy - _Apprentice Druid_ _(Potboy A)_
-  - Potboy B
-  - Serving Wench A
-  - Serving Wench B
-- Leatherworker's Household
-  - Leatherworker's Wife
-    - 2x Young Child [06]
-    - Wife's Brother [06]
+- <span style="color: ForestGreen;">Farmer's Household</span> [01]
+  - <span style="color: ForestGreen;">Granny Helen</span> _(Granny)_ [01]
+  - <span style="color: ForestGreen;"> </span> _(Young Woman)_ [01]
+  - <span style="color: ForestGreen;"> </span> _(Farmer's Wife)_ [01]
+    - <span style="color: ForestGreen;"> </span> _(4x Young Child)_ [01]
+- <span style="color: ForestGreen;">Household</span> [04]
+  - <span style="color: ForestGreen;"> </span> _(Widow)_ [04]
+  - <span style="color: ForestGreen;"> </span> _(Eldest Son's Wife)_ [04]
+    - <span style="color: ForestGreen;"> </span> _(4x Young Child)_ [04]
+  - <span style="color: ForestGreen;"> </span> _(Second Son's Wife)_ [04]
+    - <span style="color: ForestGreen;"> </span> _(4x Young Child)_ [04]
+- <span style="color: ForestGreen;"> </span> _(Woodwright's Wife)_
+  - <span style="color: ForestGreen;"> </span> _(2x Young Child)_ [16]
+- <span style="color: ForestGreen;"> </span> _(Mytch's Wife)_
+  - <span style="color: ForestGreen;"> </span> _(3x Child)_ [22]
+- <span style="color: ForestGreen;"> </span> _(Servant B)_ [22]
+- <span style="color: ForestGreen;"> </span> _(Stonemason's Wife)_
+  - <span style="color: ForestGreen;"> </span> _(2x Child)_
+- <span style="color: ForestGreen;">Household</span> [05]
+  - <span style="color: ForestGreen;"> </span> _(Eldest Daughter)_ [05]
+  - <span style="color: ForestGreen;"> </span> _(Second Daughter)_ [05]
+- <span style="background-color: IndianRed; color: ForestGreen;"> </span> _(Widower's Wife)_
+  - <span style="background-color: IndianRed; color: ForestGreen;"> </span> _(5x Young Child)_ [25]
+- <span style="color: ForestGreen;"> </span> _(Woodcutter's Wife)_
+  - <span style="color: ForestGreen;"> </span> _(3x Young Child)_ [03]
+- <span style="color: ForestGreen;"> </span> _(Braumeister's Wife)_
+  - <span style="color: ForestGreen;"> </span> _(Young Child)_ [18]
+- <span style="color: ForestGreen;">Village Elder's Household </span>
+  - <span style="color: ForestGreen;"> </span> _(Village Elder's Wife)_
+  - <span style="color: ForestGreen;"> </span> _(Village Elder's Son's Wife A)_
+    - <span style="color: ForestGreen;"> </span> _(2x Child)_ [27]
+  - <span style="color: ForestGreen;"> </span> _(Village Elder's Son'w Wife B)_
+    - <span style="color: ForestGreen;"> </span> _(Child)_ [27]
+  - <span style="color: ForestGreen;"> </span> _(Serving Girl A)_ [27]
+  - <span style="color: ForestGreen;"> </span> _(Serving Girl B)_ [27]
+- <span style="color: ForestGreen;"> </span> _(Eldest Son's Wife)_ [25]
+- <span style="color: ForestGreen;">Herdsman's Household</span>
+  - <span style="background-color: IndianRed; color: ForestGreen;"> </span> _(Herdsman's Wife)_ [25]
+    - <span style="background-color: IndianRed; color: ForestGreen;"> </span> _(5x Young Child)_ [25]
+- <span style="color: ForestGreen;"> </span> _(Farmer's Wife)_ [12]
+  - <span style="color: ForestGreen;"> </span> _(6x Daughter)_ [12]
+  - <span style="color: ForestGreen;"> </span> _(Small Child)_ [12]
+- <span style="color: ForestGreen;">Gundigoot's Household</span>
+  - <span style="color: ForestGreen;"> </span> _(Goodwife Gundigoot)_
+    - <span style="color: ForestGreen;"> </span> _(Ostler's Eldest Daughter)_
+    - <span style="color: ForestGreen;"> </span> _(Ostler's Second Daughter)_
+  - <span style="color: ForestGreen;"> </span> _(Potboy - _Apprentice Druid_ _(Potboy A)_
+  - <span style="color: ForestGreen;"> </span> _(Potboy B)_
+  - <span style="color: ForestGreen;"> </span> _(Serving Wench A)_
+  - <span style="color: ForestGreen;"> </span> _(Serving Wench B)_
+- <span style="color: ForestGreen;">Leatherworker's Household </span>
+  - <span style="color: ForestGreen;"> </span> _(Leatherworker's Wife)_
+    - <span style="color: ForestGreen;"> </span> _(2x Young Child)_ [06]
+    - <span style="color: ForestGreen;"> </span> _(Wife's Brother)_ [06]
 
 
 
