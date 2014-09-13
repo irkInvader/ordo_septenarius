@@ -5,7 +5,7 @@ body {
 	font-family: $base-font;
 	color: $text-color;
 	@include font-size(16);
-  background: url({{ site.url }}/images/subtle_textured_beige_background.jpg)
+  background: url(ordo_septenarius/images/subtle_textured_beige_background.jpg)
 }
 
 p {
