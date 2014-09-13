@@ -5,6 +5,7 @@ body {
 	font-family: $base-font;
 	color: $text-color;
 	@include font-size(16);
+  background: url(/images/subtle_textured_beige_background.jpg/)
 }
 
 p {
