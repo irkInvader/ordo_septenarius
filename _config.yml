@@ -5,7 +5,6 @@ logo: Greyhawk_Logo.gif  # 120x120 px default image used for Twitter summary car
 teaser: Default_Archive_Teaser.jpg  # 400x250 px default teaser image used in image archive grid
 locale: en_US
 url: //irkInvader.github.io/ordo_septenarius
-# url: http://localhost:4000  # URL for Development Environment
 
 
 # Jekyll configuration
