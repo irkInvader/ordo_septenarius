@@ -8,6 +8,9 @@ tags: [backstory, "Ordo Septenarius"]
 imagefeature: 2014-09-10_Teaser.png
 comments: true
 share: true
+author:
+  name: The Dungeon Master
+  avatar: The_Dungeon_Master.jpg
 ---
 
 Long ago, in the early days of our heroes' youth (well, our _human_ heroes' youth, anyway!), many a late summer afternoon was spent relating their favorite tales of adventure.

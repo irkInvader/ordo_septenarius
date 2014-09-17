@@ -22,8 +22,8 @@ url:       		   /ordo_septenarius
 
 # Owner/author information
 owner:
-  name:           The Dungeon Master
-  avatar:         The_Dungeon_Master.jpg
+  name:           Errin Larsen
+  avatar:         Zim.png
   email:          irkInvader@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Well, of course I'm being childish! There's no point being grown-up if you can't be childish sometimes.
@@ -52,14 +52,10 @@ links:
     url: /
     external: false
     icon: home
-  - title: <i class="icon-book"></i> Documentation
-    url: /documentation
   - title: Categories
     url: /categories
   - title: Tags
     url: /tags
-  - title: Faysal who?
-    url: /hossain-mohd-faysal
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
