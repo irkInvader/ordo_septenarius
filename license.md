@@ -4,9 +4,6 @@ permalink: /license/index.html
 title: LICENSE
 description: "License for Jekyll theme."
 headline: "The MIT License"
-tags: [Jekyll, theme, license]
-image:
-  feature: 
 ---
 
 The MIT License (MIT)
