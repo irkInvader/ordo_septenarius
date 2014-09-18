@@ -50,12 +50,13 @@ bing_verify:
 links:
   - title: Home
     url: /
-    external: false
     icon: home
   - title: Categories
     url: /categories
   - title: Tags
     url: /tags
+  - title: Dungeon Master
+    url: /dungeon_master
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
