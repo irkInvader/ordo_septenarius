@@ -6,30 +6,28 @@
 <script type='text/javascript'>console.log("HMFaysal Omega Theme Version 2.0");</script>
 <script type='text/javascript'>console.log("https://alum.mit.edu/www/hmfaysal");</script>
 <script type='text/javascript'>$(document).ready(function(){$(".time").text(function(a,b){return Math.round(parseFloat(b))})});</script>
-
 <script type="text/javascript">
+  /*      Slides       */
+  $("a#slide").click(function(){
+    $("#sidebar,body,a#slide,#fade").addClass("slide")
+  });
 
-/*      Slides       */
-$("a#slide").click(function(){
-  $("#sidebar,body,a#slide,#fade").addClass("slide")
-});
+  $("#fade,#header,#posts-container").click(function(){
+    $("#sidebar,body,a#slide,#fade").removeClass("slide")
+  });
 
-$("#fade,#header,#posts-container").click(function(){
-  $("#sidebar,body,a#slide,#fade").removeClass("slide")
-});
+  $("a#click-filter").click(function(){
+    $("#slide-filter").slideToggle("medium");
+    $("#slide-pages").slideOut("medium");
+  });
 
-$("a#click-filter").click(function(){
-  $("#slide-filter").slideToggle("medium");
-  $("#slide-pages").slideOut("medium");
-});
-
-$("a#click-pages").click(function(){
-  $("#slide-pages").slideToggle("medium");
-  $("#slide-filter").slideOut("medium");
-});
-/*      End-Slides      */
-
+  $("a#click-pages").click(function(){
+    $("#slide-pages").slideToggle("medium");
+    $("#slide-filter").slideOut("medium");
+  });
+  /*      End-Slides      */
 </script>
+
 
 {% if site.search %}
 <!-- Jekyll Simple Search option -->
@@ -41,9 +39,9 @@ $("a#click-pages").click(function(){
       template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
       noResults: '<p>Nothing found.</p>'
     });
-});
+  });
 
-  (function( $, window, undefined ) {
+  (function($, window, undefined) {
     var bs = {
       close: $(".icon-remove-sign"),
       searchform: $(".search-form"),
@@ -63,9 +61,10 @@ $("a#click-pages").click(function(){
       bs.searchform.toggleClass('active');
       bs.canvas.removeClass('search-overlay');
     });
-  })( jQuery, window );
+  })(jQuery, window);
 </script>
 {% endif %}
+
 
 {% if site.google_analytics %}
 <!-- Asynchronous Google Analytics snippet -->
@@ -83,5 +82,6 @@ $("a#click-pages").click(function(){
   })();
 </script>
 {% endif %}
+
 
 {% if page.comments %}{% include disqus_comments.html %}{% endif %}
