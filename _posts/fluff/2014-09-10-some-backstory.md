@@ -1,25 +1,23 @@
 ---
 layout: post
 title: Obligatory Origin Story
-date: 2014-09-10T17:42:42-05:00
 description: "We will be eight!"
+date: 2014-09-10T17:42:42-05:00
+author:
+  name: The Dungeon Master
+  avatar: The_Dungeon_Master.jpg
 category: Fluff
 tags: [backstory, "Ordo Septenarius"]
 imagefeature: 2014-09-10_Teaser.png
 comments: true
 share: true
-author:
-  name: The Dungeon Master
-  avatar: The_Dungeon_Master.jpg
 ---
-
-Long ago, in the early days of our heroes' youth (well, our _human_ heroes' youth, anyway!), many a late summer afternoon was spent relating their favorite tales of adventure.
-
-<!-- more -->
 
 ## The _Ordo Septenarius_
 
-Armed with their trusty long swords (stout, oaken branches), magical staves (the same), and mounted on their faithful steeds (the versatility of a stout, oaken branch really is amazing!), these young hopeful heroes saved the world from the evil hordes of chaos almost every day. Always these fantasy adventures were fueled by the latest news and rumours of those legendary figures referred to collectively as _The Circle of Eight_. The young friends, our heroes-to-be, wanted nothing more than to experience for themselves the storied companionship and mythical exploits of the renowned _Circle of Eight_.
+Long ago, in the early days of our heroes' youth (well, our _human_ heroes' youth, anyway!), many a late summer afternoon was spent relating their favorite tales of adventure. Armed with their trusty long swords (stout, oaken branches), magical staves (the same), and mounted on their faithful steeds (the versatility of a stout, oaken branch really is amazing!), these young hopeful heroes saved the world from the evil hordes of chaos almost every day. Always these fantasy adventures were fueled by the latest news and rumours of those legendary figures referred to collectively as _The Circle of Eight_. The young friends, our heroes-to-be, wanted nothing more than to experience for themselves the storied companionship and mythical exploits of the renowned _Circle of Eight_.
+
+<!-- more -->
 
 Ah, but the innocence of youth fades. The school-age fantasies make way to more mature, more _adult_, responsibilities. This age-old story is well known to most, and all succumb to the pressures of adulthood
 
