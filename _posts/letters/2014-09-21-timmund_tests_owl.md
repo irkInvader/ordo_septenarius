@@ -1,7 +1,7 @@
 ---
 layout: letter
 type: default
-title: "Letter from Timmund"
+title: "Quick note from Timmund"
 description: "dated 3 Flocktime, 579 CY"
 date: 2014-09-15 15:39:42 -5:00
 category: Letters
@@ -25,4 +25,4 @@ He warns me that the bird can only carry a single correspondance at a time, and 
 
 If it returns as he describes, I will continue to detail my quest with further letters in the future.
 
-  Yours - Timmund
+Yours - Timmund
