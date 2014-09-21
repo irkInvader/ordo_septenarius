@@ -62,10 +62,10 @@
 
     <div class="post-body bordered-bottom">
       {% assign excerptsize = post.excerpt | number_of_words %}
-      {% if excerptsize <= 100 and excerptsize >= 50 %}
+      {% if excerptsize <= 50 and excerptsize >= 30 %}
       <p class = "lead">{{ post.excerpt }}&hellip;</p>
       {% else %}
-      <p>{{ post.content | truncatewords:100 }}&hellip;</p>
+      <p>{{ post.content | truncatewords:50 }}&hellip;</p>
       {% endif %}
 
       <div class="text-center">
