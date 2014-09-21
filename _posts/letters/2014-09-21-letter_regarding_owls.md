@@ -9,8 +9,8 @@ tags: [letter, Timmund]
 comments: true
 imagefeature: black_owl.png
 author:
-  name: The Dungeon Master
-  avatar: The_Dungeon_Master.jpg
+  name: A fellow philanthropist
+  avatar: bio-photo.jpg
 ---
 
 To the members of the _Societas Octonarius_,

@@ -9,8 +9,8 @@ tags: [letter, Timmund]
 comments: true
 imagefeature: owl_delivery.png
 author:
-  name: The Dungeon Master
-  avatar: The_Dungeon_Master.jpg
+  name: Timmund
+  avatar: timmund.jpg
 ---
 
 Dear Fellows,
